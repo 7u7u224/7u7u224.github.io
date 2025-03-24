@@ -1,7 +1,5 @@
 
 
-[![7u7u224]([https://github.com/7u7u224))
-
 She is currently pursuing a Master's Degree in Financial technology, Dongbei University of Finance and Economics, China.
 
 #### Email
