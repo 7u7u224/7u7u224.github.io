@@ -1,13 +1,5 @@
-- National Scholarship of Graduate Student, 2024.
+- "Second Prize" of the Second ETF Simulation Financial Market Competition of GF Securities, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- The 7th Northeast Agricultural University Mathematics Competition "Second Prize", 2023.
 
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- The sixth Northeast Agricultural University Mathematics Competition "Second Prize", 2022.
