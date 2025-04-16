@@ -1,23 +1,29 @@
-## Hi there 👋 I am Qiu Tian 🤗
 
-<!--
-**7u7u224/7u7u224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
+![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
+![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
+![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- GitHub 统计卡片 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=7u7u224&show_icons=true&theme=yellow"/>
+# A simple Github Pages template for personal academic websites.
 
-<!-- 打字动画（加速版） -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=你好呀～;欢迎来我的主页看看～&font=Microsoft+YaHei&size=28&duration=500&pause=500&color=00AAFF"/>
+## Preview
+[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
 
-My homepage: https://7u7u224.github.io/
+
+## Introduction
+
+This personal academic website template is based on [bootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
+
+The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
+
+This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as delimiters for inline-math, or use `$$...$$` and `\[...\]` as delimiters for display-math. Macros such as `\ref{...}`, `\eqref{...}`, and `\begin{equation}...\end{equation}` are also supported. See [MathJax](https://docs.mathjax.org/en/latest/index.html) for more details.
+
+:milky_way: Demo: https://senli1073.github.io/
+
+
+## Getting Start
+### 1. Fork this repository
+The repository name should be `<username>.github.io`, which will also be your website's URL.
+
+
